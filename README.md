@@ -1,6 +1,6 @@
-# ConnectHub - A Full-Stack Social Media Platform
+# Social Connect - A Full-Stack Social Media Platform
 
-ConnectHub is a MERN-based social networking platform featuring secure authentication, profile management, real-time feeds, post interactions, and responsive dark/light mode themes.
+Social Connect is a MERN-based social networking platform featuring secure authentication, profile management, real-time feeds, post interactions, and responsive dark/light mode themes.
 
 ## Features
 - User registration and login with JWT authentication
